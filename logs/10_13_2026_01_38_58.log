@@ -1,0 +1,15 @@
+[2026-10-13 01:38:58,240] 43 root - INFO - pipeline initiated
+[2026-10-13 01:39:00,060] 68 root - INFO - plotting started
+[2026-10-13 01:39:00,061] 25 root - INFO - created a NumericalPlot() object
+[2026-10-13 01:39:00,061] 39 root - INFO - inside the hist plot Method
+[2026-10-13 01:39:00,321] 50 root - INFO - flatten the ax
+[2026-10-13 01:40:41,145] 56 root - INFO - before tight layout
+[2026-10-13 01:40:56,917] 60 root - INFO - before save
+[2026-10-13 01:40:58,221] 64 root - INFO - ended
+[2026-10-13 01:40:58,221] 73 root - INFO - inside the boxplot Method
+[2026-10-13 01:41:11,359] 95 root - INFO - ended
+[2026-10-13 01:41:12,699] 35 root - INFO - could not convert string to float: 'Female'
+[2026-10-13 01:41:12,699] 75 root - INFO - 
+FILE  [c:\Users\shani\OneDrive\Desktop\Initial Library\general.py]
+LINE  [32]
+ERROR  [could not convert string to float: 'Female']

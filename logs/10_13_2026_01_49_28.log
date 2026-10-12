@@ -1,0 +1,10 @@
+[2026-10-13 01:49:28,043] 43 root - INFO - pipeline initiated
+[2026-10-13 01:49:29,754] 68 root - INFO - plotting started
+[2026-10-13 01:49:29,754] 25 root - INFO - created a NumericalPlot() object
+[2026-10-13 01:49:29,754] 39 root - INFO - inside the hist plot Method
+[2026-10-13 01:49:30,022] 50 root - INFO - flatten the ax
+[2026-10-13 01:51:08,348] 56 root - INFO - before tight layout
+[2026-10-13 01:51:08,645] 60 root - INFO - before save
+[2026-10-13 01:51:10,031] 68 root - INFO - ended
+[2026-10-13 01:51:10,032] 77 root - INFO - inside the boxplot Method
+[2026-10-13 01:51:20,337] 99 root - INFO - ended

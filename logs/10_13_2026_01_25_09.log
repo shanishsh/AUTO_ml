@@ -1,0 +1,5 @@
+[2026-10-13 01:25:09,898] 41 root - INFO - pipeline initiated
+[2026-10-13 01:25:11,732] 66 root - INFO - plotting started
+[2026-10-13 01:25:11,733] 25 root - INFO - created a NumericalPlot() object
+[2026-10-13 01:25:11,733] 39 root - INFO - inside the hist plot Method
+[2026-10-13 01:25:12,010] 50 root - INFO - flatten the ax
