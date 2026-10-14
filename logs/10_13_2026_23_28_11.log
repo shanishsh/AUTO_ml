@@ -1,0 +1,5 @@
+[2026-10-13 23:28:12,237] 56 root - INFO - pipeline initiated
+[2026-10-13 23:28:14,422] 83 root - INFO - plotting started
+[2026-10-13 23:28:26,064] 116 root - INFO - I AM INTO DATA PREPROCESSOR
+[2026-10-13 23:28:26,064] 120 root - INFO - CREATED DATAPREPROCESSOR OBJECT
+[2026-10-13 23:28:26,064] 82 root - INFO - train df and test df

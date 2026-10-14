@@ -1,0 +1,11 @@
+[2026-10-13 06:07:23,569] 54 root - INFO - pipeline initiated
+[2026-10-13 06:07:25,610] 81 root - INFO - plotting started
+[2026-10-13 06:07:25,611] 26 root - INFO - created a NumericalPlot() object
+[2026-10-13 06:07:25,611] 16 root - INFO - inside the hist plot Method
+[2026-10-13 06:07:26,340] 27 root - INFO - flatten the ax
+[2026-10-13 06:09:12,496] 33 root - INFO - before tight layout
+[2026-10-13 06:09:12,832] 37 root - INFO - before save
+[2026-10-13 06:09:14,294] 45 root - INFO - ended
+[2026-10-13 06:09:14,294] 54 root - INFO - inside the boxplot Method
+[2026-10-13 06:09:26,700] 80 root - INFO - ended
+[2026-10-13 06:09:32,453] 110 root - INFO - 'int' object is not iterable

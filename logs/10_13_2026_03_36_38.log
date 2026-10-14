@@ -1,0 +1,13 @@
+[2026-10-13 03:36:38,560] 54 root - INFO - pipeline initiated
+[2026-10-13 03:36:40,860] 81 root - INFO - plotting started
+[2026-10-13 03:36:40,860] 26 root - INFO - created a NumericalPlot() object
+[2026-10-13 03:36:40,860] 16 root - INFO - inside the hist plot Method
+[2026-10-13 03:36:41,210] 27 root - INFO - flatten the ax
+[2026-10-13 03:39:10,696] 33 root - INFO - before tight layout
+[2026-10-13 03:39:11,156] 37 root - INFO - before save
+[2026-10-13 03:39:13,334] 45 root - INFO - ended
+[2026-10-13 03:39:13,334] 36 root - INFO - name 'target' is not defined
+[2026-10-13 03:39:13,334] 89 root - INFO - 
+FILE  [c:\Users\shani\OneDrive\Desktop\Initial Library\general.py]
+LINE  [31]
+ERROR  [name 'target' is not defined]
